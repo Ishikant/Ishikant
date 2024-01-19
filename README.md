@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I’m currently working on **Arduino Projects and mock websites.**
 
-- ⚛️ I’m currently learning **Python** & **MACHINE LEARNING**
+- ⚛️ I’m currently learning **Python** & **C#** 
 
 - ❗️ All of my projects are available at [github.com/Ishikant](https://github.com/Ishikant)
 
